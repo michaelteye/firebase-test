@@ -10,12 +10,12 @@ importScripts(
 // Initialize the Firebase app in the service worker by passing in the
 // messagingSenderId.
 firebase.initializeApp({
-    apiKey: "AIzaSyB1l7OBo8nYVpPU65DncjV9e13p90IQF3M",
-    authDomain: "bezoweb-push.firebaseapp.com",
-    projectId: "bezoweb-push",
-    storageBucket: "bezoweb-push.appspot.com",
-    messagingSenderId: "1037295674905",
-    appId: "1:1037295674905:web:4ed9813230735b6682ec88",
+    apiKey: "AIzaSyCeGR2888oD6mUvFDXEGhG0QLo8WMNDMAk",
+    authDomain: "bezonotification.firebaseapp.com",
+    projectId: "bezonotification",
+    storageBucket: "bezonotification.appspot.com",
+    messagingSenderId: "819772866681",
+    appId: "1:819772866681:web:ba089fbceafec6e47c14a8",
     measurementId: "G-YC8SKMS78H",
 });
 
