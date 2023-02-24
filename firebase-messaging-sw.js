@@ -41,15 +41,3 @@ messaging.setBackgroundMessageHandler(function(payload) {
     );
 });
 
-
-
-
-// const firebaseConfig = {
-//     apiKey: "AIzaSyA1K9hxodjQ3PVBPGhZS4TEgk6EhAx6UpU",
-//     authDomain: "push-notification-c602f.firebaseapp.com",
-//     projectId: "push-notification-c602f",
-//     storageBucket: "push-notification-c602f.appspot.com",
-//     messagingSenderId: "715377064493",
-//     appId: "1:715377064493:web:9bb3c98b186104723f56a4",
-//     measurementId: "G-LZ748K6EH5"
-//   };
