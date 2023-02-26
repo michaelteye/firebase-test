@@ -15,8 +15,8 @@ firebase.initializeApp({
     projectId: "send-notification-b4e66",
     storageBucket: "send-notification-b4e66.appspot.com",
     messagingSenderId: "903610944699",
-    appId: "1:903610944699:web:13b3937bde59cf4f72ed9e",
-    measurementId: "G-T1YQ5TL9T7"
+    appId: "1:903610944699:web:e1cfd89b3f59cdfc72ed9e",
+    measurementId: "G-5CG7CD4DCK"
 });
 
 // Retrieve an instance of Firebase Messaging so that it can handle background
